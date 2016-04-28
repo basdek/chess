@@ -1,0 +1,8 @@
+[Site "Casseia"]
+[Date "2016.04.25"]
+[White "Mirjam K."]
+[Black "Bas de K."]
+[Result "*"]
+
+1.d4 d5 2.e3 Nc6 3.c4 { Possible because black's black Bischop and Queen can't exploit the King diagonal } 3...dxc4 4.Bxc4 Be6 { Not smart, it allows white to destructure the army } 5.Bxe6 fxe6 6.Nf3 Nf6 7.O-O g6 8.Qb3 Na5 9.Qxe6 { White should have protected that field. (See 4.) } 9...Qd6 10.Ng5!! { Great move, it will prevent black from recapturing control of the field and possibility to castle. } 10...Qxe6 11.Nxe6 c6?? { Blunder, White can play (and in fact will) Nc7+, which takes the castle. } 12.Nc7+ Kf7 13.Nxa8 Ne4 14.Nc7 Bh6 15.f3 Ng5 16.Nc3 { White still has quite some undeveloped reserves... } 16...e5 { Why? } 17.dxe5 Ne6 { The idea was probably to prevent e6+ } 18.Nxe6 Kxe6 19.f4 { Protecting pawn and improving structure, rendering bishop useless on half of the board } 19...Kf7 { Strange move, with debatable use. } 20.Ne4 g5?? { Blunder, because fxg5 is check } 21.fxg5+ Ke7 22.gxh6 Rf8 23.Bd2 Nc4 { Black should have seen that his king and castle are on the same diagonal and that white moved the bisshop into position to exploit that. The correct move would have been Ke8 } 24.Bb4+ Kd7 25.Rxf8 Nxe3 26.Nf6+ Ke6 27.Re8+ Kf7 28.Bd2 Nf5 29.Rf1 Kg6 30.Rg8+ Kf7 31.Rg5 Ke6 32.g4 c5 { (everything is pretty useless at this point) } 33.Nxh7 Kd5 34.Nf6+ Kc6 35.e6 Kb5 36.e7 b6 37.e8=Q+ { Why all of this is necessary, why a promotion? } 37...Ka6 38.Qe2+ Kb7 39.Rg7+ Kb8 40.Nd7+ { White ignores a mate Qe8# } 40...Kc7 41.Nxc5+ Kc8 42.Qe8# 
+*
